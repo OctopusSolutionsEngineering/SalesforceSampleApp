@@ -1,0 +1,1 @@
+zip -r SampleApp.1.0.2.zip . -x 'node_modules/*' '.sf/*' '.sfdx/*' '.git/*'
